@@ -1,0 +1,37 @@
+@import "./mixins";
+@import "./variable";
+.detail-container {
+    @include container;
+    .image {
+        width: 800px;
+        height: 800px
+    }
+
+    .addToCart {
+        margin: 1rem 0
+    }
+
+    .flashSale {
+        margin: 1rem;
+        padding: 1rem;
+        color: $red-color;
+    }
+
+    .price {
+        margin: 1rem 0
+    }
+
+    .quantity {
+        @include bold-text;
+        width: 2rem;
+        font-size: 20px;
+        border-bottom: 1px solid $black-color;
+        text-align: center;
+        margin: 5px;
+    }
+
+    .fav-icon {
+        font-size: 35px;
+        vertical-align: text-bottom;
+    }
+}

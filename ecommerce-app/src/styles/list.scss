@@ -1,0 +1,19 @@
+@import "./mixins";
+
+.list-container {
+    @include container;
+    .name {
+        font-weight: bold;
+    }
+    .btn-section {
+        float: right;
+    }
+    .grid {
+        position: relative;
+    }
+    .fav-icon {
+        position:absolute;
+        top: 8%;
+        right: 2%;
+    }
+}

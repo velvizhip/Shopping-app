@@ -1,0 +1,25 @@
+@import "./mixins";
+.cart-container {
+    margin: 50px 200px;
+
+    .image {
+        width: 150px;
+        height: 150px;
+    }
+
+    .table-th td {
+        @include bold-text;
+    }
+
+
+    .total {
+        text-align: right;
+        margin: 20px 10px;
+        @include bold-text;
+        font-size: 16px
+    }
+    .quantity-field{
+        width: 2rem;
+        height: 2rem;
+    }
+}

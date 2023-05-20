@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "name": "Camera",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/341523/pexels-photo-341523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/335257/pexels-photo-335257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/821651/pexels-photo-821651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/3616984/pexels-photo-3616984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=22",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/2622187/pexels-photo-2622187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/258244/pexels-photo-258244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/3270223/pexels-photo-3270223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        },
+        {
+            "name": "Sofa",
+            "description": "jkhj",
+            "falshSale": true,
+            "image": "https://images.pexels.com/photos/3801990/pexels-photo-3801990.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "price": "$650"
+        }
+    ]
+}
